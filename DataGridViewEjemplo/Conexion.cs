@@ -5,19 +5,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data;
-
+using System.Configuration;
 namespace DataGridViewEjemplo
 {
     public class Conexion
     {
         public string connectionString 
-            = "Data Source=(LocalDb)\\MSSQLLocalDB;Initial catalog=Almacen;Trusted_Connection=True";
+            = ConfigurationManager.AppSettings["connectionString"];
 
         private SqlConnection sqlConnection { get; set; }
 
 
         public Conexion() {
             sqlConnection = new SqlConnection(connectionString);
+        
+
         }
 
         public void Open() {
@@ -48,6 +50,26 @@ namespace DataGridViewEjemplo
             sqlDataAdapter.Fill(datosMemoria);
 
             return datosMemoria;
+        }
+
+        public int EliminarRegistro(string queryDelete)
+        {
+            SqlCommand sqlCommand = new SqlCommand(queryDelete, sqlConnection);
+            Open();
+            var resultado = sqlCommand.ExecuteNonQuery();
+            Close();
+
+            return resultado;
+        }
+
+        public int Actualizar(string queryUpdate)
+        {
+            SqlCommand sqlCommand = new SqlCommand(queryUpdate, sqlConnection);
+            Open();
+            var resultado = sqlCommand.ExecuteNonQuery();
+            Close();
+
+            return resultado;
         }
 
     }

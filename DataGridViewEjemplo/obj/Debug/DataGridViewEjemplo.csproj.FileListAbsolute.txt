@@ -18,3 +18,13 @@ C:\Users\Docente\Downloads\DataGridViewEjemplo\DataGridViewEjemplo\DataGridViewE
 C:\Users\Docente\Downloads\DataGridViewEjemplo\DataGridViewEjemplo\DataGridViewEjemplo\obj\Debug\DataGridViewEjemplo.csproj.CoreCompileInputs.cache
 C:\Users\Docente\Downloads\DataGridViewEjemplo\DataGridViewEjemplo\DataGridViewEjemplo\obj\Debug\DataGridViewEjemplo.exe
 C:\Users\Docente\Downloads\DataGridViewEjemplo\DataGridViewEjemplo\DataGridViewEjemplo\obj\Debug\DataGridViewEjemplo.pdb
+C:\Users\desarrollador\Downloads\DataGridViewEjemplo\DataGridViewEjemplo\DataGridViewEjemplo\DataGridViewEjemplo\bin\Debug\DataGridViewEjemplo.exe.config
+C:\Users\desarrollador\Downloads\DataGridViewEjemplo\DataGridViewEjemplo\DataGridViewEjemplo\DataGridViewEjemplo\bin\Debug\DataGridViewEjemplo.exe
+C:\Users\desarrollador\Downloads\DataGridViewEjemplo\DataGridViewEjemplo\DataGridViewEjemplo\DataGridViewEjemplo\bin\Debug\DataGridViewEjemplo.pdb
+C:\Users\desarrollador\Downloads\DataGridViewEjemplo\DataGridViewEjemplo\DataGridViewEjemplo\DataGridViewEjemplo\obj\Debug\DataGridViewEjemplo.csproj.AssemblyReference.cache
+C:\Users\desarrollador\Downloads\DataGridViewEjemplo\DataGridViewEjemplo\DataGridViewEjemplo\DataGridViewEjemplo\obj\Debug\DataGridViewEjemplo.Form1.resources
+C:\Users\desarrollador\Downloads\DataGridViewEjemplo\DataGridViewEjemplo\DataGridViewEjemplo\DataGridViewEjemplo\obj\Debug\DataGridViewEjemplo.Properties.Resources.resources
+C:\Users\desarrollador\Downloads\DataGridViewEjemplo\DataGridViewEjemplo\DataGridViewEjemplo\DataGridViewEjemplo\obj\Debug\DataGridViewEjemplo.csproj.GenerateResource.cache
+C:\Users\desarrollador\Downloads\DataGridViewEjemplo\DataGridViewEjemplo\DataGridViewEjemplo\DataGridViewEjemplo\obj\Debug\DataGridViewEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\desarrollador\Downloads\DataGridViewEjemplo\DataGridViewEjemplo\DataGridViewEjemplo\DataGridViewEjemplo\obj\Debug\DataGridViewEjemplo.exe
+C:\Users\desarrollador\Downloads\DataGridViewEjemplo\DataGridViewEjemplo\DataGridViewEjemplo\DataGridViewEjemplo\obj\Debug\DataGridViewEjemplo.pdb
